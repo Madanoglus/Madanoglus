@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, I'm Mustafa 👋
 
-<!--
-**Madanoglus/Madanoglus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![HTML](https://img.shields.io/badge/HTML-e34f26)
+![CSS](https://img.shields.io/badge/CSS-2965f1)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e)
+![React](https://img.shields.io/badge/-React-blue)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* I'm a front-end developer, I’m currently learning React.
+
+* 📫 How to reach me mustafahalilmadanoglu@gmail.com
+
+
+
+
