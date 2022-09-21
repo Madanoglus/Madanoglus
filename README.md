@@ -4,7 +4,7 @@
 ![CSS](https://img.shields.io/badge/CSS-2965f1)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e)
 ![React](https://img.shields.io/badge/-React-blue)
-![Next.js](https://img.shields.io/badge/-React-blue)
+![Next.js](https://img.shields.io/badge/-Next.js-important)
 
 
 
